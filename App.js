@@ -4,10 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Task from './components/Task';
 
 export default function App() {
-  return <Task/>
-
-
-  
+  return <Task/>;
 }
 
 const styles = StyleSheet.create({
